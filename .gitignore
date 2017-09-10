@@ -1,0 +1,6 @@
+.DS_store
+*.p
+*.tar.gz
+.ipynb_checkpoints
+__pycache__
+cifar-10-batches-py
